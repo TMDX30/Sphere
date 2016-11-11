@@ -14,7 +14,7 @@ Requires:
 
 #### 1. Download or clone this repo.
 
-#### 2. Install <a href="https://nodejs.org/en/">node.js</a>
+#### 2. Install <a href="https://nodejs.org/en/">Node.js</a>
 
 #### 3. Install <a href="http://gulpjs.com/">Gulp</a> globally.
 
