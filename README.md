@@ -8,9 +8,7 @@ The app is based on <a href="https://framework7.io/">Framework7</a> an open sour
 
 ## Installation
 
-Requires:
-- <a href="https://nodejs.org/en/">Node.js</a>
-- <a href="http://gulpjs.com/">Gulp</a>
+Requires <a href="https://nodejs.org/en/">Node.js</a> 3.X and <a href="http://gulpjs.com/">Gulp</a>
 
 #### 1. Download or clone this repo.
 
