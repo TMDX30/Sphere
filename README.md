@@ -33,7 +33,7 @@ $ npm install
 
 ## Server
 
-Because Framework7 uses Ajax for navigation between pages you will need a server. So to make it work you should put dist folder (or Kitchen Sink) on a server. Or, as an option, you may use Gulp's server. Just run:
+Because Framework7 uses Ajax for navigation between pages you will need a server. You may use Gulp's server. Just run:
 
 ```
 $ gulp server
