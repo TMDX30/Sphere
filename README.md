@@ -31,8 +31,6 @@ $ npm install
 
 ## Usage
 
-## Server
-
 Because Framework7 uses Ajax for navigation between pages you will need a server. You may use Gulp's server. Just run:
 
 ```
@@ -43,4 +41,4 @@ $ gulp server
 
 ## Help
 
-For additional guidance, contact the 'After School Club' team. 
+For additional guidance, consult the <a href="http://framework7.io/docs/">Framework7 documentation</a> or contact the 'After School Club' team. 
