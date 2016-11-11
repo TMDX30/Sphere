@@ -37,7 +37,7 @@ Because Framework7 uses Ajax for navigation between pages you will need a server
 $ gulp server
 ```
 
-  * The app will be available on `http://localhost:3000/App/`
+The app will be available on <a href="http://localhost:3000/App/">http://localhost:3000/App/</a>
 
 ## Help
 
