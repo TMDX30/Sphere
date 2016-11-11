@@ -2,7 +2,7 @@
 
 An app for people new or returning to the organisation. 
 
-This app has been developed as a team project by the 'After School Club'. It is heavily work in progress, meaning that the content and design could be subject to rapid and large changes. 
+This app has been developed as a team project by the 'After School Club'. It is heavily work in progress. Content and design could be subject to rapid and large change. 
 
 The app is based on <a href="https://framework7.io/">Framework7</a> an open source mobile HTML framework.
 
