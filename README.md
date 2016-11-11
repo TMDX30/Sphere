@@ -33,7 +33,9 @@ $ npm install
 
 ## Usage
 
-Because Framework7 uses Ajax for navigation between pages you will need a web server. Gulp includes its own server that you can use. Run the command:
+Because Framework7 uses Ajax for navigation between pages you will need a web server. 
+
+Gulp includes its own server that you can use. Run the command:
 
 ```
 $ gulp server
