@@ -14,7 +14,7 @@ Requires:
 
 #### 1. Download or clone this repo.
 
-#### 2. Install <a href="https://nodejs.org/en/">Node.js</a>
+#### 2. Install <a href="https://nodejs.org/en/">Node.js</a>.
 
 #### 3. Install <a href="http://gulpjs.com/">Gulp</a> globally.
 
@@ -22,7 +22,9 @@ Requires:
 $ npm install --global gulp-cli
 ```
 
-#### 4. Install project dependencies:
+#### 4. Install project dependencies.
+
+Run the following command from the project root:
 
 ```sh
 $ npm install
