@@ -214,6 +214,12 @@
     padding: 1em 0 0 0;
 }
 
+/*Site map*/
+.site-map {
+  width: 100%;
+  height: auto;
+}
+
 /*Virtual List*/
 .list-block ul:before, .list-block ul:after{
   content: none;
