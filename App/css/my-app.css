@@ -214,19 +214,41 @@
     padding: 1em 0 0 0;
 }
 
+
 /*Site map*/
+
 .site-map {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
+
+
+/*Travel page*/
+
+.arrival-text {
+    padding-bottom: 10px;
+}
+
+.travel-list {
+    margin-top: 0;
+}
+
+
+/*Bus routes*/
+
+.full-width-card .bus-text {
+    margin-top: 0;
+}
+
 
 /*Virtual List*/
-.list-block ul:before, .list-block ul:after{
-  content: none;
+
+.list-block ul:before, .list-block ul:after {
+    content: none;
 }
 
-/*Swiper large*/
 
+/*Swiper large*/
 
 .swiper-container {
     height: 100%;
