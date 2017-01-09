@@ -76,6 +76,26 @@
 }
 
 
+/*Feedback*/
+
+.version-bar-overlay {
+    position: absolute;
+    z-index: 10000;
+    padding: 0.2em;
+    background-color: rgb(255, 167, 38);
+    top: 56px;
+    right: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    -webkit-transition-duration: 300ms;
+    transition-duration: 300ms;
+}
+
+.version-bar-overlay a {
+    color: #000;
+}
+
+
 /*Home Grid*/
 
 .row .col-50 {
